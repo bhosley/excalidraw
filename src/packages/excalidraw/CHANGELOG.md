@@ -11,7 +11,7 @@ The change should be grouped under one of the below section and must contain PR 
 Please add the latest change on the top under the correct section.
 -->
 
-## 0.11.0 (2022-02-16)
+## 0.11.0 (2022-02-17)
 
 ## Excalidraw API
 
